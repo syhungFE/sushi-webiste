@@ -37,8 +37,8 @@ All these while creating the sushi website with,
 - assets: folder that store images
 - css: folfer that store external css files
 - js: folder that store js files
-- public: folder that store resources use in public place ( ex: index.html )
+- public: folder that store resources use in public files ( ex: index.html )
 
 
 NOTE:
-- Using B.E.M method for naming classes (<a href="https://getbem.com/naming/" target="blank" > Link </a>)
+- Using B.E.M method for naming classes (<a href="https://getbem.com/naming/" target="_blank" > Link </a>)
