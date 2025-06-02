@@ -25,3 +25,20 @@ All these while creating the sushi website with,
 - About Us Section
 - Popular Food, Trending Sushi, and Drinks Sections
 - Newsletter Signup and Footer
+
+
+## How to start project
+
+1/ npm run vite
+2/ npm install
+
+
+## Project Main folders: 
+- assets: folder that store images
+- css: folfer that store external css files
+- js: folder that store js files
+- public: folder that store resources use in public place ( ex: index.html )
+
+
+NOTE:
+- Using B.E.M method for naming classes (<a href="https://getbem.com/naming/" target="blank" > Link </a>)

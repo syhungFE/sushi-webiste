@@ -5,8 +5,8 @@
 }
 
 .hero-image {
-    display: flex;
     flex: 1;
+    display: flex;
     flex-direction: column;
 
     position: relative;
@@ -41,7 +41,7 @@
 }
 
 .hero-content {
-    flex: 1.236;
+    flex: 1.22;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
