@@ -32,7 +32,6 @@ All these while creating the sushi website with,
 1/ npm run vite
 2/ npm install
 
-
 ## Project Main folders: 
 - assets: folder that store images
 - css: folfer that store external css files
